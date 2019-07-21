@@ -1,3 +1,5 @@
+**This repo is no longer maintained. Feel free to contribute or fork.**
+
 # marlin
 marlin provides an easy way to generate a `Packages.gz` file for your Cydia/APT repository.
 
